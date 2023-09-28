@@ -8,7 +8,7 @@ Hello, I'm Jason Ehrlicher! I'm a software engineering student based in New Orle
 
 ## EDUCATION:
 
-- Bachelor of Science (B.S.) in Finance, University of New Orleans (2011)
+- Bachelor of Science (B.S.) in Finance, University of New Orleans (2012)
 - Currently enrolled in a rigorous Software Engineering Bootcamp at the Institute of Data to master modern development technologies and best practices.
 
 [View My Portfolio](https://jason-ehrlicher.github.io/)
