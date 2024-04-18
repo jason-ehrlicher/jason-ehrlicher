@@ -1,6 +1,6 @@
 # JASON EHRLICHER
 
-New Orleans, LA | Software Engineering Bootcamp Student
+New Orleans, LA | Software Engineer
 
 ## INTRODUCTION:
 
