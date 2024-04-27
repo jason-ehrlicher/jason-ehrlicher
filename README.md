@@ -1,5 +1,5 @@
 # Jason Ehrlicher
-📧 jason.ehrlicher@gmail.com | 📞 +1 (504) 400-8546 | 🌐 New Orleans, LA 
+📧 jason.ehrlicher@gmail.com | 🌐 New Orleans, LA 
 
 ## Education
 
