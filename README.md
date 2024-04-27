@@ -1,5 +1,5 @@
-# Jason Ehrlicher
-📧 jason.ehrlicher@gmail.com | 🌐 New Orleans, LA 
+<h1 align="center">Jason Ehrlicher</h1>
+<h3 align="center">💻 Full Stack Developer | 📧 jason.ehrlicher@gmail.com | 🌐 New Orleans, LA </h3>
 
 ## Education
 
@@ -19,4 +19,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/jason-ehrlicher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-ehrlicher" height="30" width="40" /></a>
 </p>
-
